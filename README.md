@@ -6,7 +6,7 @@
     A robust command-line interface (CLI) tool for performing fundamental arithmetic operations.
     <br />
     <a href="#demo"><strong>View Demo »</strong></a>
-    <br />
+    <br /> 
     <br />
     <a href="#report-bug">Report Bug</a>
     ·
